@@ -30,9 +30,7 @@ public class practicalTask3 {
     }
 
     static void dataInput(int day, int month, int year, int formatChoice) {
-        // here I got stuck while trying to improve code, but this one works
 
-       //String Date = input.nextLine();
         if (day < 1 || month < 1 || year < 0) {
             System.out.println("Day and month should be > 0 and year must be positive value!");
         } else if (month == 2 && day > 29) {
