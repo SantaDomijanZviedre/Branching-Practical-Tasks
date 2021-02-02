@@ -5,7 +5,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 // Practical Task4 with Calendar and Leap Year
-public class practicalTask4_Calendar {
+public class practicalTask1_4_Calendar_Leap {
 
     public static void main(String[] args) {
 

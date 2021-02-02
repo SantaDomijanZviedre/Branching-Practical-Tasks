@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class practicalTask7 {
+public class practicalTask1_7 {
 
    public static void main(String[] args) {
 
